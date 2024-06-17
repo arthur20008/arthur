@@ -5,10 +5,10 @@ padding
 
 .cabeçalho{
  background-color: #07314F;
- color: #07314f;
+ color: #07314F;
  display: flex;
  justify-content: space-around;
- align-items: center;
+ align-items:logo da escola la salles;
 }
 
 
@@ -24,7 +24,6 @@ padding
   font-size: 25px;
 }
 .escola-imagem-um{
-  margin:0 200px ;
  width: 20%;
 }
 body{
@@ -34,10 +33,10 @@ body{
 }
 .escola{
  background-image: linear-gradient(#07314F,#0E619C,#1070B5);
- color:#fafbfc;
+ color: white;
  display: flex;
- justify-content: center;
- align-items: center;
+ justify-content:center;
+ align-items:center ;
  padding: 24px 0;
 }
 .escola-div-conteudo{
